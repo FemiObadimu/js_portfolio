@@ -202,3 +202,7 @@
     items: 1,
   });
 })(jQuery);
+
+
+
+//automated carousel works expressly
